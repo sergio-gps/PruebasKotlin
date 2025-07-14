@@ -4,14 +4,17 @@ fun main() {
   println(ceil)
   // Add your notes below
   // puts the next integer value
+
   var sqrt = Math.sqrt(25.0) 
   println(sqrt)
   // Add your notes below
   // do de square root off the number
+
   var abs = Math.abs(-20) 
   println(abs)
   // Add your notes below 
   // absolute value of the number, no sign
+  
   var floor = Math.floor(6.9)
   println(floor)
   // Add your notes below 
